@@ -33,12 +33,11 @@ Ejemplo de JSON:
     "random": 12345
 }
 
-
-### Tecnologías utilizadas
+### 4. Tecnologías utilizadas
 
     Java
     Spring Boot
-    Maven (o Gradle)
+    Gradle
 
 ### Configuración del Proyecto
 
