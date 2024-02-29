@@ -43,9 +43,3 @@ Ejemplo de JSON:
 ### Configuración del Proyecto
 
 Asegúrate de tener Java y Maven instalados. Luego, puedes clonar el proyecto y ejecutarlo localmente.
-
-```bash
-
-git clone https://tu-repositorio.git
-cd tu-proyecto
-mvn spring-boot:run
