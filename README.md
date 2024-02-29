@@ -33,13 +33,14 @@ Ejemplo de JSON:
     "random": 12345
 }
 
-Tecnologías utilizadas
+
+### Tecnologías utilizadas
 
     Java
     Spring Boot
     Maven (o Gradle)
 
-Configuración del Proyecto
+### Configuración del Proyecto
 
 Asegúrate de tener Java y Maven instalados. Luego, puedes clonar el proyecto y ejecutarlo localmente.
 
