@@ -44,7 +44,7 @@ Ejemplo de JSON:
 
 Asegúrate de tener Java y Maven instalados. Luego, puedes clonar el proyecto y ejecutarlo localmente.
 
-bash
+```bash
 
 git clone https://tu-repositorio.git
 cd tu-proyecto
