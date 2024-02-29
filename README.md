@@ -32,6 +32,7 @@ Ejemplo de JSON:
 {
     "random": 12345
 }
+```
 
 ### 4. Tecnologías utilizadas
 
